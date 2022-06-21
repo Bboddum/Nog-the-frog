@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Falldetector
+  - Cherry
+  - Apple
+  - Bluegem
+  - Checkpoint
+  - Extra
   layers:
   - Default
   - TransparentFX
@@ -38,6 +44,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 4170535825
+    locked: 0
+  - name: Forground_back
+    uniqueID: 1635252751
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: forground
+    uniqueID: 1342412359
     locked: 0
